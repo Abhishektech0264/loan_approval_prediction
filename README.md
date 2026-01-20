@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # loan_approval_prediction
 
 # Loan Approval Prediction System
@@ -153,3 +154,6 @@ Machine Learning Enthusiast | Aspiring ML Engineer
 ---
 
 ⭐ If you like this project, feel free to star the repository!
+=======
+# loan_approval_prediction
+>>>>>>> a977415187e6c61ea269a63c9bcb714864629694
