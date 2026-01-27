@@ -14,6 +14,8 @@ Banks and financial institutions receive thousands of loan applications daily. M
 The system takes applicant information such as income, credit history, loan amount, education, and property area, then predicts the loan status.
 
 ---
+# Link to check the project 
+https://loanapprovalprediction-e8nwyenr96t34hosm77ruz.streamlit.app/
 
 ## 🧠 Machine Learning Pipeline
 
